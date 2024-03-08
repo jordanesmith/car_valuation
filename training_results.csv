@@ -1,4 +1,4 @@
-make, model, MSE, MAE, R3, dataset_size
+make, model, MSE, MAE, R2, dataset_size
 AM, xgb, 1.098e+08, 5431, 0.9045, 715
 JAG, xgb, 4.105e+06, 1335, 0.9570, 1128
 BMW, xgb, 1.382e+06, 785.0, 0.9848, 1097
