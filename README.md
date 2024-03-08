@@ -2,6 +2,20 @@ Experimentation for ML model to predict value of a car sold on autotrader, to be
 
 
 # Results
+```
+{
+    "AM": "Aston Martin",
+    "JAG": "Jaguar",
+    "BMW": "BMW",
+    "MB": "Mercedes-Benz",
+    "LT": "Lotus",
+    "AR": "Alfa Romeo",
+    "LR": "Land Rover",
+    "BTL": "Bentley",
+    "PSC": "Porsche",
+}
+```
+
 | Make | Model | MSE        | MAE  | R3    | Dataset Size |
 |------|-------|------------|------|-------|--------------|
 | AM   | xgb   | 1.098e+08  | 5431 | 0.9045| 715          |
