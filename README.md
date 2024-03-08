@@ -1,5 +1,8 @@
-Experimentation for ML model to predict value of a car sold on autotrader, to be used by traders.
+Experimentation for ML model to predict the value of a car sold on Autotrader, to be used by traders.
 
+# Contents
+`etl.ipynb` contains the code development for the extract, transform, and load data pipeline.
+`ml.ipynb` contains data science experiments. Including preprocessing, feature engineering, model training, testing, and inference. 
 
 # Results
 ```
@@ -16,7 +19,7 @@ Experimentation for ML model to predict value of a car sold on autotrader, to be
 }
 ```
 
-| Make | Model | MSE        | MAE  | R3    | Dataset Size |
+| Make | Model | MSE        | MAE  | R2    | Dataset Size |
 |------|-------|------------|------|-------|--------------|
 | AM   | xgb   | 1.098e+08  | 5431 | 0.9045| 715          |
 | JAG  | xgb   | 4.105e+06  | 1335 | 0.9570| 1128         |
