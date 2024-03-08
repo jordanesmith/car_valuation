@@ -2,7 +2,6 @@ Experimentation for ML model to predict value of a car sold on autotrader, to be
 
 
 # Results
-```
 | Make | Model | MSE        | MAE  | R3    | Dataset Size |
 |------|-------|------------|------|-------|--------------|
 | AM   | xgb   | 1.098e+08  | 5431 | 0.9045| 715          |
@@ -15,4 +14,4 @@ Experimentation for ML model to predict value of a car sold on autotrader, to be
 | BTL  | xgb   | 1.973e+08  | 7537 | 0.8501| 768          |
 | PSC  | xgb   | 2.675e+07  | 3303 | 0.8669| 692          |
 
-```
+
