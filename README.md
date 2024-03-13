@@ -41,7 +41,7 @@ After my investigations and initial experiementation with
 2. experimenting with new model architectures
 
 > **I reduced Error (MSE) by 91%.**
->
+
 > **I increased the R<sup>2</sup> score significantly to 90%.**
 
 ---
