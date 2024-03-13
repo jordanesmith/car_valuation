@@ -35,7 +35,11 @@ Experimentation for ML model to predict the value of a car sold on Autotrader, t
 
 ![Results](plots/results_image.png)
 
-After my investigations and initial experiementation with 1. improving the pre-existing model 2. experimenting with new model architectures.
+After my investigations and initial experiementation with
+
+1. improving the pre-existing model
+2. experimenting with new model architectures.
 
 Error (MSE) reduced by 91%.
+
 R<sup>2</sup> score significantly increased to 90%.
