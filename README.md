@@ -2,8 +2,8 @@ Experimentation for ML model to predict the value of a car sold on Autotrader, t
 
 # Contents
 
-`etl.ipynb` contains the code development for the extract, transform, and load data pipeline.
-`ml.ipynb` contains data science experiments. Including preprocessing, feature engineering, model training, testing, and inference.
+- `etl.ipynb` contains the code development for the extract, transform, and load data pipeline.
+- `ml.ipynb` contains data science experiments. Including preprocessing, feature engineering, model training, testing, and inference.
 
 # Results
 
@@ -43,3 +43,7 @@ After my investigations and initial experiementation with
 **I reduced Error (MSE) by 91%.**
 
 **I increased the R<sup>2</sup> score significantly to 90%.**
+
+#### Experimental Code Disclaimer
+
+Important Note: This codebase is currently under active development and is considered experimental. It is not intended for production use. The code, including ML models and ETL processes, is being developed for the purpose of experimentation and research into predicting the value of cars sold on Autotrader, specifically aimed at traders. While we strive for accuracy, the results, performance metrics, and reliability of predictions should be critically assessed by users before any use case beyond experimentation.
