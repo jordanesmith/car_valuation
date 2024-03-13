@@ -40,9 +40,9 @@ After my investigations and initial experiementation with
 1. improving the pre-existing Random Forest model
 2. experimenting with new model architectures
 
-**I reduced Error (MSE) by 91%.**
-
-**I increased the R<sup>2</sup> score significantly to 90%.**
+> **I reduced Error (MSE) by 91%.**
+>
+> **I increased the R<sup>2</sup> score significantly to 90%.**
 
 ---
 
