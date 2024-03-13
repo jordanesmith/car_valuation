@@ -34,3 +34,8 @@ Experimentation for ML model to predict the value of a car sold on Autotrader, t
 | PSC  | xgb   | 2.675e+07 | 3303  | 0.8669 | 692          |
 
 ![Results](plots/results_image.png)
+
+After my investigations and initial experiementation with 1. improving the pre-existing model 2. experimenting with new model architectures.
+
+Error (MSE) reduced by 91%.
+R^2 score significantly increased to 90%.
