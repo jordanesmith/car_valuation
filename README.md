@@ -37,9 +37,9 @@ Experimentation for ML model to predict the value of a car sold on Autotrader, t
 
 After my investigations and initial experiementation with
 
-1. improving the pre-existing model
-2. experimenting with new model architectures.
+1. improving the pre-existing Random Forest model
+2. experimenting with new model architectures
 
-Error (MSE) reduced by 91%.
+I reduced Error (MSE) by 91%.
 
-R<sup>2</sup> score significantly increased to 90%.
+I increased the R<sup>2</sup> score significantly to 90%.
